@@ -1,4 +1,4 @@
-<a href="https://rishavchanda.io" target="_blank"><img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead" style="width: 100%; height: 280px;"></a>
+<a href="https://rishavchanda.io" target="_blank"><img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead" style="width: 100%; height: 300px;"></a>
 <h1 align="center">Hi 👋, I'm Kacper Rostowski</h1>
 <h3 align="center">I'm a passionate backend developer from Poland 🇵🇱, specializing in Python 🐍 and its powerful frameworks Django and Flask. I love crafting robust, scalable applications and diving deep into server-side logic. Always eager to learn and share knowledge with the developer community! Feel free to connect with me or check out my projects below!</h3>
 
