@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper Rostowski</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate backend developer from Poland 🇵🇱, specializing in Python 🐍 and its powerful frameworks Django and Flask. I love crafting robust, scalable applications and diving deep into server-side logic. Always eager to learn and share knowledge with the developer community! Feel free to connect with me or check out my projects below!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeles&label=Profile%20views&color=0e75b6&style=flat" alt="veeles" /> </p>
 
